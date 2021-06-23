@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>SRI VAISHNAV ASTROLOGY</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 120px;background: #222;}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+</style>
+<body class="w3-black">
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">SRI VAISHNAV ASTROLOGY</a>
+    <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT US</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+    </div>
+    
+  </div>
+</div>
+
+<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="#SRI VAISHNAV ASTROLOGY" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">SRI VAISHNAV ASTROLOGY</a>
+  <a href="#ABOUT US" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">ABOUT US</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
+  
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+  <!-- Automatic Slideshow Images -->
+  <div class="mySlides w3-display-container w3-center">
+    <img src="https://lh3.googleusercontent.com/jCiwJtQ7zjjqTEGPKOioRQUDLCQRcNLfxg1Qy7W_VRu6Sxw0ulcSa-phdrNzgjju9FjFe4zjzt8dG2PkiCWcBAoh7-7q9iSR5iNifZmyhoRF9tOKYTHb8CtkTuMDb_pREM9qf49n7FwbRGUbgecUQVirhW_fj3Bq0wSzJD3UMG5XJct3pZ94yT-Fdu8BKxsmbMrRNu2r1MboNMc9vBnXD2J52Txm5X8nn7w0V7A3XbBv5ShyljvDVpkYOgi5W0tH5KBsYrPEA_smTjm1UClDNyIDo43S85i9nh172f87V-0nJ_ExpchTWcSUB8KcZ81G5O5OQCo8G95Aa3sp_pxtZ8CCfIz7Mn7ymixoDlW4cw7XPbv1tIT0lRYbjZHdxjfTUXFLZxx8ghU4OrxUQAyoUmEx80B_RS-ofdmVxuaJ0xzFU1hHA9Z0vhPVGM-n2ItgIn36Uhv77E9zqaP4x_cfWG0nuikgF42B3yool7_3aDMB27yJ2w2bht5p_l8d05uh_TUlTB8mK3HnPVlnfCyS-Wigwa15KRa9PDO6sM-qe4Ogu_B8u0VgLdRSy24GJ22-zW6L9pORrALtlNX7o_85LIx6yr6DhzZnVHmabxTCjvaowHLGPgYsjNI96g8KQvscV9qbMmXj27s-M4cTfUAIS7rzT9A9RZ8O888jo-OraZeQML4uv3fSdArq36RMFHTq-kCUcjV5-Puouu15M8YaMgOG=w1011-h568-no?authuser=0" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3> SRI VAISHNAV ASTROLOGY</h3>
+      <p><b>LIGHTING THE LAMPS OF POSITIVITY...!</b></p>   
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="https://lh3.googleusercontent.com/ma8pEeTyXYijf3yPhep5cyMp8Jn6f-kXi1yNYlHEHuD9mbGayCLOruy4iNKIz3mnPfV_DZp05AurlJo-kCAZZ1DI_vWPwEInf-MlFXOJWXYBBpWC1owk-9pQeXXDnR64FlNOxYQI6N__o9mphUbeVFVY-vyTlGmG_hl9zYDxVpEhN4PXtntoOIwb_w_OtAl9lfB9hFeqTA-vT5ZGFwU2tFcUpO7l0sJqL8ujtL8QWzc0quFagofoiAHi9uWH2GZ1xqOzoiaiMRwS-fXaS6HAwUkRwxvhSmcirNwZfzzvbaIF1zMazetTSbYc4IOdCupUTt_GJYomHyyagyHs1QzTWPA5m9hRbrQOvLoq9RDJ9zuW4qpm8wA_N9mJIxdxiD6YUZIJYsX8czvgPnTsdx8flnL_B9RgdZOMkCs3EWK86CKmKTuTcAH6QzTJ1L603Y44tYOU8fnLrurBcCj9uE9Uc2UxcNcdjwASU6aEgjwDRZECP8q8XMFaVJ-QVPALvPZ_IlYAg1DXTfgoF06_3tWorhdtfGVj1S2I6L8XZIsUdwM4kCpfu57TFgQleq_rA_ZPg17aPhuYv14Ip2wJCWe5xRf04HlwKyOsDAdGXJfRIOPnnCkwwYxVn0MKlX-4kyLEZbiRR0CAJjM9Axf8UCIjUakVAoT4EtJHMETi47QrJojzmN0YIi0-vXdqVsMElsVaTBKFiwnkU7F9iFwz8G6SMQkR=w825-h464-no?authuser=0" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>VASTHU VIDHWAN</h3>
+      <p><b>VASTHU Tips To Enhance Your FORTUNE.</b></p>    
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="https://lh3.googleusercontent.com/7luoqa9ywe9Kbo5p9DApRCWjCJLKvKV5EdgPneGl_kVIzwrhTNNU0XjZXLK6s2IcaJoWXJLilz8CqpmxhHnN2WwArF-I6FMkyF63NQ3J8J4_f2cwEKhpp-dJEOtCjg2ELzZsoIVJKmInpl_UUcB307iph-ZwLTMW5llziATsiLpjE7A7nMnfWXRtHFkSjipVCjTgoIeOibLKSfr545ccN5_Wwlveqg8OD7zYqkkcFlLrtVkn6ZLj2g3801Wf45O3WsudMKTlmtNf4K2AIgEPkCUoru7T8UZ4w483bFQweHFTX0Kuk9brWrGGruwqC8WnLxOJ1LsY8x4Gmhkp_NwKZGf4VBoypMCF0PXOme97OiExbgxBJ6g9rMLRst4wQSgZvoY9kORyiVNNymHayE6SUdb3ZzxPthAmJCzlsEbj2UQXQSQ86IraLa-VoMpuLld3SkKGcB5tSDl3i_i_2BGI3o9rkXpmm4Ko-9i27C1Mw8vKrX6iEdu4BpL9nqEbai2m6jfNAFvJ9LhoQzY4Qv-KK9-Lm89gf0r6sQla3XKda76dR2iS1AUZGXcG0_dBKC3pUt_bJbGM3JMaRKF5o_WPQLlK3yg9e0Ix3KnG244KOkQS6iF3YjBNPH0pXtaemuowdgluPB_50-d1mS7RjD9YsX81DB_pG-IEtOXb6ckwRXijfo0E-zac9OsKLuFtsW6NlBIgTr9d2Yqcuk4JhfXgDmYH=w328-h246-no?authuser=0" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>ASTROLOGY</h3>
+      <p><b>Anyone Can be a Millionaire, But to become a Billionaire you Need an Astrologer</b></p>    
+    </div>
+  </div>
+
+  <!-- The Band Section -->
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+    <h2 class="w3-wide">SRI VAISHNAVA ASTROLOGY</h2>
+    <p class="w3-opacity"><i>We GUIDE YOUR LIFE PATH</i></p>
+    <p class="w3-justify"> HERE We Will be Dealing With ASTROLOGY, PUROHITH, VASTHU VIDHWAN, PANCHATRATHRA, AAGAMA, YAJURVEDHA.</p>
+    <div class="w3-row w3-padding-32">
+         </div>
+  </div>
+
+  <!-- The Tour Section -->
+  <div class="w3-black" id="tour">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+      <h2 class="w3-wide w3-center">ABOUT US</h2>
+      <p class="w3-opacity w3-center"><i>Remember to book your tickets!</i></p><br>
+
+      
+
+    </div>
+  </div>
+
+  
+  <!-- The Contact Section -->
+  <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
+    <h2 class="w3-wide w3-center">CONTACT </h2>
+    <p class="w3-opacity w3-center"><i>What You need to know...!</i></p>
+    <div class="w3-row w3-padding-32">
+      <div class="w3-col m6 w3-large w3-margin-bottom">
+        <i class="fa fa-map-marker" style="width:30px"></i>K.R.PALII, CHITTOOR-517001, ANDHRA PRADESH, INDIA<br>
+        <i class="fa fa-phone" style="width:30px"></i> Phone:+91 9441231223<br>
+        <i class="fa fa-envelope" style="width:30px"> </i> Email:srivaishnavastrog@gmail.com<br>
+      </div>
+     
+    </div>
+  </div>
+  
+<!-- End Page Content -->
+</div>
+
+<!-- Image of location/map -->
+
+<!-- Footer -->
+  <!-- Footer -->
+  <a href="https://t.me/astro4all"><img src ="https://img.icons8.com/nolan/2x/telegram-app.png"></a>
+  <a href="https://www.facebook.com/profile.php?id=100069122683159"><img src="https://img.icons8.com/color/2x/facebook-new.png"></a>
+  <a href=" https://twitter.com/SRIVAISHNAVAST1?s=09"><img src="https://img.icons8.com/color/2x/twitter.png"></a>
+  <a href="https://chat.whatsapp.com/EOurda5uX5Z2jiirTDWT6i"><img src="https://img.icons8.com/clouds/2x/whatsapp.png"></a>
+
+<script>
+// Automatic Slideshow - change image every 4 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 4000);    
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
